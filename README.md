@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on WebApps in process improvement using AI 
 - 📫 How to reach me: aniastachowiak14@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: no fun facts
+
 
 <!---
 Czarna14/Czarna14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
